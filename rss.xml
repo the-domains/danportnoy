@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[DanPortnoy]]></title>
         <description><![CDATA[DanPortnoy]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/danportnoy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Apr 2016 19:16:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 02 Apr 2016 19:28:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/danportnoy/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Joe Swanberg Keynote | SXSW Film 2016]]></title>
+            <description><![CDATA[<article><h1>Joe Swanberg Keynote | SXSW Film 2016</h1><p>Joe Swanberg is the director of 20 feature films, including Hannah Takes The Stairs, Drinking Buddies, and Happy Christmas. As an actor, he has had leading roles in several horror successes, most notably You're Next, The Sacrament, and V/H/S.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4809aa2d1cf7deb512f0e1b4b1b0ee0121183bc4.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=hNDMo0ax17E&amp;feature=youtu.be</link>
+            <guid isPermaLink="false">26c3be9b-08b0-4cdf-8fe0-07a08bf3d07c</guid>
+            <pubDate>Sat, 02 Apr 2016 19:28:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa3e7238-df80-4a1a-ae18-a3e0f70ba73a.jpg">]]></description>
-            <link>undefinedmaiden-voyage/index.html</link>
+            <link>https://thegrid.ai/danportnoy/maiden-voyage/index.html</link>
             <guid isPermaLink="false">9d89e60c-69d1-4929-9f82-fac5e28bf13f</guid>
             <pubDate>Sat, 02 Apr 2016 19:15:59 GMT</pubDate>
         </item>
