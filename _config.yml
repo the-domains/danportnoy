@@ -2,6 +2,7 @@ name: DanPortnoy
 favicon: null
 layout_spectrum: 0.5449800528585911
 typography_spectrum: 0.9552132044918835
+title: ViewFinder
 cta:
   domain: null
   bucket: null
