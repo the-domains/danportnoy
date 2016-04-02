@@ -1,4 +1,4 @@
-name: DanPortnoy
+name: Dan Portnoy
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.35849
@@ -22,8 +22,8 @@ color:
     - '#5a6579'
     - '#788aa6'
     - '#3e4956'
-  brandStrength: 0.40944066271185875
-  lightness: 0.449528876459226
-  saturation: 0.0290308038238436
-  rhythmicContrast: 0.39425407792441547
+  brandStrength: 0.4375
+  lightness: 0.4375
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
